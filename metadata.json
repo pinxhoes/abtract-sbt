@@ -1,0 +1,11 @@
+{
+  "name": "Rioter",
+  "description": "Your unshakable badge of rebellion within the Pudgy Riot ecosystem. Symbolizing fearless individuality and an unwavering commitment to the $pengu movement, the Rioter token is a one-of-a-kind digital artifact that cannot be transferred or traded. It forever marks your place in the uprising, granting exclusive access to elite events, secret drops, and governance privileges. With the Rioter SBT, you're not just part of a community, you're a leader in a revolution.",
+  "image": "ipfs://bafybeiaskzfym56vvnw3x7ukt6j5szwkgjekxqesq36dpxccmked6inzui",
+  "attributes": [
+    {
+      "trait_type": "Riot Elder",
+      "value": "priceless"
+    }
+  ]
+}
